@@ -23,6 +23,6 @@ After the form is submitted, display a success message and clear the rest of the
 You may use any preexisting CSS framework or no framework
 
 <br>
-<center>
+<p align="center">
 <img src="public/form.jpg">
-</center>
+</p>
