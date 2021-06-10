@@ -11,9 +11,9 @@ The form must accept the following information and implement the following valid
 
 > Email - Cannot be blank AND must be a valid email address
 
-> Birth date- Can be blank
+> Birth date - Can be blank - If not empty, the input must be a valid date
 
-> If not empty, the input must be a valid date - Agreement to be contacted - Must be checked
+> Agreement to be contacted - Must be checked
 
 The form has a “submit” button that is disabled if any of the previous fields are invalid
 The form has a “clear” button that clears the rest of the form
