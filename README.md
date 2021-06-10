@@ -22,7 +22,16 @@ To submit the form, make an HTTP POST request to https://my-json-server.typicode
 After the form is submitted, display a success message and clear the rest of the form
 You may use any preexisting CSS framework or no framework
 
+# Rough Draft
+
 <br>
 <p align="center">
 <img src="public/form.jpg">
+</p>
+
+# Final Draft
+
+<br>
+<p align="center">
+<img src="public/finaldraft.jpg">
 </p>
