@@ -50,6 +50,7 @@ function App() {
               <div className="form-group">
                 <label className="form-label">Name</label>
                 <input
+                  htmlFor="name"
                   name="name"
                   type="text"
                   {...register("name")}
@@ -60,6 +61,7 @@ function App() {
               <div className="form-group">
                 <label>Email</label>
                 <input
+                  htmlFor="email"
                   name="email"
                   type="text"
                   {...register("email")}
@@ -71,20 +73,15 @@ function App() {
             <div className="form-row">
               <div className="form-group p-1">
                 <label>Date of Birth</label>
-                <input
-                  name="dob"
-                  type="date"
-                  {...register("dob")}
-                  className={`form-control ${errors.dob ? "is-invalid" : ""}`}
-                />
-                <div className="invalid-feedback">{errors.dob?.message}</div>
+                <input htmlFor="dob" name="dob" type="date" className="form-control" />
               </div>
             </div>
             <div className="form-group form-check">
               <input
-                name="emailConsent"
+                htmlFor="emailCheckbox"
+                name="emailCheckbox"
                 type="checkbox"
-                {...register("emailConsent")}
+                {...register("emailCheckbox")}
                 className={`form-check-input ${errors.emailConsent ? "is-invalid" : ""}`}
               />
               <label htmlFor="emailConsent" className="form-check-label">
