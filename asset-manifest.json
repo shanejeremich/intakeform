@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.603b1913.chunk.js",
-    "main.js.map": "/static/js/main.603b1913.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fffc6aa2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fffc6aa2.js.map",
-    "static/js/2.65358556.chunk.js": "/static/js/2.65358556.chunk.js",
-    "static/js/2.65358556.chunk.js.map": "/static/js/2.65358556.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.65358556.chunk.js.LICENSE.txt": "/static/js/2.65358556.chunk.js.LICENSE.txt"
+    "main.js": "/intakeform/static/js/main.603b1913.chunk.js",
+    "main.js.map": "/intakeform/static/js/main.603b1913.chunk.js.map",
+    "runtime-main.js": "/intakeform/static/js/runtime-main.ed0e60e2.js",
+    "runtime-main.js.map": "/intakeform/static/js/runtime-main.ed0e60e2.js.map",
+    "static/js/2.65358556.chunk.js": "/intakeform/static/js/2.65358556.chunk.js",
+    "static/js/2.65358556.chunk.js.map": "/intakeform/static/js/2.65358556.chunk.js.map",
+    "index.html": "/intakeform/index.html",
+    "static/js/2.65358556.chunk.js.LICENSE.txt": "/intakeform/static/js/2.65358556.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fffc6aa2.js",
+    "static/js/runtime-main.ed0e60e2.js",
     "static/js/2.65358556.chunk.js",
     "static/js/main.603b1913.chunk.js"
   ]
