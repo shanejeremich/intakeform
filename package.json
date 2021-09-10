@@ -2,6 +2,7 @@
   "name": "intakeform",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sjeremich23.github.io/intakeform",
   "dependencies": {
     "@hookform/resolvers": "^2.5.2",
     "@testing-library/jest-dom": "^5.13.0",
