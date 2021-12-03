@@ -53,7 +53,7 @@ You may use any preexisting CSS framework or no framework
 - Forms abide by the rules set by the requirements for this project
 - Receives a HTTP 200 in response to your request
 
-#### Front end deployed to `GitHub Pages`
+### Front end deployed to `GitHub Pages`
 
 > [Intake Form](https://sjeremich23.github.io/intakeform/)
 
