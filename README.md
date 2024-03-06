@@ -1,6 +1,6 @@
 # New Participant Intake form
 
-You can find the deployed project at [Intake Form](https://sjeremich23.github.io/intakeform/)
+You can find the deployed project at [Intake Form](https://shanejeremich.github.io/intakeform/)
 
 ## Overview
 
