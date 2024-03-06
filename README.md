@@ -36,8 +36,8 @@ You may use any preexisting CSS framework or no framework
 
 |                                        [Shane Jeremich](https://github.com/sjeremich23)                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: |
-|                     [<img src="public/images/shane.png" width = "200" />](https://github.com/sjeremich23)                      |
-|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sjeremich23)                    |
+|                     [<img src="https://avatars.githubusercontent.com/u/51142646?v=4" width = "200" />](https://github.com/shanejeremich)                      |
+|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shanejeremich)                    |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/shanejeremich/) |
 
 <br>
@@ -55,7 +55,7 @@ You may use any preexisting CSS framework or no framework
 
 ### Front end deployed to `GitHub Pages`
 
-> [Intake Form](https://sjeremich23.github.io/intakeform/)
+> [Intake Form](https://shanejeremich.github.io/intakeform/)
 
 # APIs
 
